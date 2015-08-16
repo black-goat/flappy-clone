@@ -161,7 +161,7 @@ bool Player::move( const std::vector<Pipe>& pipes, const int currentTime )
 
     mPosX += mVelX * timePassed;
 
-    mPosY = mPosY + ( GRAVITY * timePassed * timePassed ) + mVelY * timePassed;
+    mPosY = mPosY + ( GRAVITY * timePassed * timePassed ) / 2 + mVelY * timePassed;
 
     mVelY = mVelY + GRAVITY * timePassed;
 

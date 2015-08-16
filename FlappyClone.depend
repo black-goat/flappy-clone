@@ -129,3 +129,134 @@
 	"Game.hpp"
 	"Player.hpp"
 
+1437564526 source:d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\collisiondetection.cpp
+	<SDL.h>
+	"CollisionDetection.hpp"
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\collisiondetection.hpp
+	<SDL.h>
+
+1437564526 source:d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\game.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<SDL_mixer.h>
+	"constants.hpp"
+	"Engine.hpp"
+	"Game.hpp"
+	"LevelGenerator.hpp"
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\constants.hpp
+	<SDL.h>
+	<vector>
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\engine.hpp
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\game.hpp
+	<cstdio>
+	<string>
+	<vector>
+	<SDL_mixer.h>
+	"LTexture.hpp"
+	"LTimer.hpp"
+	"LevelGenerator.hpp"
+	"Player.hpp"
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\ltexture.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\ltimer.hpp
+	<SDL.h>
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\levelgenerator.hpp
+	<cstdio>
+	<random>
+	<string>
+	<SDL.h>
+	"constants.hpp"
+	"LTexture.hpp"
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\player.hpp
+	<string>
+	<vector>
+	"Game.hpp"
+	"LTexture.hpp"
+	"LTimer.hpp"
+	"LevelGenerator.hpp"
+	"constants.hpp"
+	"ScoreTracker.hpp"
+
+1437564526 d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\scoretracker.hpp
+	<iostream>
+	<fstream>
+	<SDL.h>
+	"Game.hpp"
+	"Player.hpp"
+
+1437564526 source:d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\levelgenerator.cpp
+	<cstdio>
+	<string>
+	<random>
+	<vector>
+	<functional>
+	<ctime>
+	<SDL.h>
+	"LevelGenerator.hpp"
+	"constants.hpp"
+
+1437564526 source:d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\ltexture.cpp
+	<cstdio>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"LTexture.hpp"
+
+1437564526 source:d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\ltimer.cpp
+	<SDL.h>
+	"LTimer.hpp"
+
+1437564732 source:d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<string>
+	<functional>
+	<random>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"LTexture.hpp"
+	"LTimer.hpp"
+	"Game.hpp"
+	"Player.hpp"
+	"LevelGenerator.hpp"
+
+1439741220 source:d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\player.cpp
+	<string>
+	<vector>
+	<cstdio>
+	<iostream>
+	<iomanip>
+	<SDL.h>
+	"LTexture.hpp"
+	"LTimer.hpp"
+	"constants.hpp"
+	"Player.hpp"
+	"CollisionDetection.hpp"
+	"LevelGenerator.hpp"
+	"ScoreTracker.hpp"
+
+1437564526 source:d:\google drive\c++ projects\flappyclone\flappyclone\flappy-clone\scoretracker.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<SDL.h>
+	"Game.hpp"
+	"ScoreTracker.hpp"
+	"Player.hpp"
+	"constants.hpp"
+
